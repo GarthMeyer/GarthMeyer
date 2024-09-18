@@ -52,7 +52,7 @@ I aim to demonstrate my transition from end user compute engineering to cloud se
 
 ## Certifications
 <div>
-<a href="https://learn.microsoft.com/en-us/users/garthmeyer-0546/credentials/certification/azure-fundamentals?tab=credentials-tab">Microsoft Certified: Azure Fundamentals</a><br>
+<a href="https://learn.microsoft.com/api/credentials/share/en-us/GarthMeyer-0546/62A2452FD5FA52DB?sharingId=134D621588E15CA0">Microsoft Certified: Azure Fundamentals</a><br>
 <a href="https://learn.microsoft.com/en-us/users/garthmeyer-0546/credentials/certification/modern-desktop?tab=credentials-tab">Microsoft 365 Certified: Endpoint Administrator Associate</a><br>
 <a href="https://learn.microsoft.com/en-us/users/garthmeyer-0546/credentials/certification/azure-administrator?tab=credentials-tab">Microsoft Certified: Azure Administrator Associate</a>
 </div>
