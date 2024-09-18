@@ -10,6 +10,10 @@ As an End User Compute Engineer with expertise in managing desktop infrastructur
 
 I aim to demonstrate my transition from end user compute engineering to cloud security by showcasing projects focused on securing Azure environments, identity management, and cloud infrastructure protection.
 
+## Projects
+- Detection Lab
+- <a href="https://google.com">Managing Microsoft Entra identities</a>
+
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
@@ -54,7 +58,3 @@ I aim to demonstrate my transition from end user compute engineering to cloud se
 <img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
 </div>
-
-## Projects
-- Detection Lab
-- <a href="https://google.com">Managing Microsoft Entra identities</a>
