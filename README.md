@@ -11,7 +11,6 @@ As an End User Compute Engineer with expertise in managing desktop infrastructur
 I aim to demonstrate my transition from end user compute engineering to cloud security by showcasing projects focused on securing Azure environments, identity management, and cloud infrastructure protection.
 
 ## Projects
-- Detection Lab
 - <a href="https://github.com/GarthMeyer/Managing-Microsoft-Entra-identities">Managing Microsoft Entra identities</a>
 
 
