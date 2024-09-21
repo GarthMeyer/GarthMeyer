@@ -12,7 +12,7 @@ I aim to demonstrate my transition from end user compute engineering to cloud se
 
 ## Projects
 - Detection Lab
-- <a href="https://google.com">Managing Microsoft Entra identities</a>
+- <a href="https://github.com/GarthMeyer/Managing-Microsoft-Entra-identities">Managing Microsoft Entra identities</a>
 
 
 ## Skills
