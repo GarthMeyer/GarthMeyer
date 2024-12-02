@@ -12,7 +12,7 @@ I aim to demonstrate my transition from end user compute engineering to cloud se
 
 ## Projects
 - <a href="https://github.com/GarthMeyer/M365-Administration">M365 Administration</a>
-
+- <a href="https://github.com/GarthMeyer/Identity-and-Access-Management">Identity and Access Management</a>
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
