@@ -11,8 +11,7 @@ As an End User Compute Engineer with expertise in managing desktop infrastructur
 I aim to demonstrate my transition from end user compute engineering to cloud security by showcasing projects focused on securing Azure environments, identity management, and cloud infrastructure protection.
 
 ## Projects
-- <a href="https://github.com/GarthMeyer/M365-Administration">M365 Administration</a>
-- <a href="https://github.com/GarthMeyer/Identity-and-Access-Management">Identity and Access Management</a>
+- <a href="https://github.com/GarthMeyer/Windows-Server-Hybrid-Administration">Windows Server Hybrid Administration</a>
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
