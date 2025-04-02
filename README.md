@@ -21,3 +21,11 @@ As a Technology Support Engineer with expertise in managing desktop infrastructu
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/GarthMeyer"><img src="https://github-readme-stats.vercel.app/api?username=GarthMeyer&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="GarthMeyer's GitHub stats" /></a>
+
+## Certifications
+<div>
+<a href="https://learn.microsoft.com/api/credentials/share/en-us/GarthMeyer-0546/62A2452FD5FA52DB?sharingId=134D621588E15CA0">Microsoft Certified: Azure Fundamentals</a><br>
+<a href="https://learn.microsoft.com/api/credentials/share/en-us/GarthMeyer-0546/B12D1C2AC01D57E7?sharingId=134D621588E15CA0">Microsoft 365 Certified: Endpoint Administrator Associate</a><br>
+<a href="https://learn.microsoft.com/api/credentials/share/en-us/GarthMeyer-0546/EF4D6A035A3B7604?sharingId=134D621588E15CA0">Microsoft Certified: Azure Administrator Associate</a><br>
+<a href="https://learn.microsoft.com/en-us/users/garthmeyer-0546/credentials/certification/azure-security-engineer?tab=credentials-tab">Microsoft Certified: Azure Security Engineer Associate</a>
+</div>
