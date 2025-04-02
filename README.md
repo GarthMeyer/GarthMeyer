@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Technology Support Engineer
 ---------------------------
 
-As a Technology Support Engineer with expertise in managing desktop infrastructure, user access, and device security, I have developed a strong foundation in IT operations and support. I am now looking to transition into a Cloud Security Engineer role, leveraging my experience with endpoint security, identity management, and user access controls to protect cloud environments. My goal is to focus on securing cloud infrastructure, implementing best practices, and addressing emerging security threats in cloud platforms such as Microsoft Azure.
+As a Technology Support Engineer with expertise in managing desktop infrastructure, user access, and device security, I have developed a strong foundation in IT operations and support. I am now looking to transition into an azure cloud security engineer role, leveraging my experience with endpoint security, identity management, and user access controls to protect cloud environments. My goal is to focus on securing cloud infrastructure, implementing best practices, and addressing emerging security threats in cloud platforms such as Microsoft Azure.
 
 * 🌍  I'm based in Cape Town
 * ✉️  You can contact me at [meyer.garth@gmail.com](mailto:meyer.garth@gmail.com)
