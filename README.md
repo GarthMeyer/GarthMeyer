@@ -27,5 +27,7 @@ As a Technology Support Engineer with expertise in managing desktop infrastructu
 <a href="https://learn.microsoft.com/api/credentials/share/en-us/GarthMeyer-0546/62A2452FD5FA52DB?sharingId=134D621588E15CA0">Microsoft Certified: Azure Fundamentals</a><br>
 <a href="https://learn.microsoft.com/api/credentials/share/en-us/GarthMeyer-0546/B12D1C2AC01D57E7?sharingId=134D621588E15CA0">Microsoft 365 Certified: Endpoint Administrator Associate</a><br>
 <a href="https://learn.microsoft.com/api/credentials/share/en-us/GarthMeyer-0546/EF4D6A035A3B7604?sharingId=134D621588E15CA0">Microsoft Certified: Azure Administrator Associate</a><br>
-<a href="https://learn.microsoft.com/en-us/users/garthmeyer-0546/credentials/certification/azure-security-engineer?tab=credentials-tab">Microsoft Certified: Azure Security Engineer Associate</a>
+<a href="https://learn.microsoft.com/en-us/users/garthmeyer-0546/credentials/certification/azure-security-engineer?tab=credentials-tab">Microsoft Certified: Azure Security Engineer Associate</a><br>
+<a href="https://learn.microsoft.com/en-us/users/garthmeyer-0546/credentials/certification/m365-enterprise-administrator?tab=credentials-tab">Microsoft 365 Certified: Administrator Expert</a><br>
+<a href="https://learn.microsoft.com/en-us/users/garthmeyer-0546/credentials/certification/identity-and-access-administrator?tab=credentials-tab">Microsoft Certified: Identity and Access Administrator Associate</a>
 </div>
