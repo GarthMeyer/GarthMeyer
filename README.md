@@ -1,3 +1,5 @@
+<img src="https://i0.wp.com/francescomolfese.it/wp-content/uploads/2018/12/hero_azure_security.png?resize=624%2C312&ssl=1" alt="Description" width="750" height="350" />
+
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Garth Meyer
 ===================================================================================================================================
 
