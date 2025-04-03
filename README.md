@@ -8,7 +8,7 @@ As a technology support engineer with experience in managing server & desktop in
 
 * 🌍  I'm based in Cape Town
 * ✉️  You can contact me at [meyer.garth@gmail.com](mailto:meyer.garth@gmail.com)
-* 🧠  I'm learning Endpoint Administration, Azure Administration, Azure Security, Microsoft 365 Administration, IAM Administration & Windows Server Hybrid Administration
+* 🧠  I'm currently learning Endpoint Administration, Azure Administration, Azure Security, Microsoft 365 Administration, IAM Administration & Windows Server Hybrid Administration
 * 🤝  I'm open to collaborating on azure cloud security with a focus on endpoint security
 
 
