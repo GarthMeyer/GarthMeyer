@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Garth Meyer
 ===================================================================================================================================
 
-Technology Support Engineer
+Cloud and Endpoint Systems Engineer
 ---------------------------
 
-As a technology support engineer with experience in managing server & desktop infrastructure, user access, and device security, I have developed a strong foundation in IT operations and support. I am now looking to transition into an azure cloud security engineer role, leveraging my experience with endpoint security, identity management, and user access controls to protect cloud environments. My goal is to focus on securing cloud infrastructure, implementing best practices, and addressing emerging security threats in cloud platforms such as Microsoft Azure.
+As a cloud and endpoint systems engineer with experience in managing server & desktop infrastructure, user access, and device security, I have developed a strong foundation in IT operations and support. I am now looking to transition into an azure cloud security engineer role, leveraging my experience with endpoint security, identity management, and user access controls to protect cloud environments. My goal is to focus on securing cloud infrastructure, implementing best practices, and addressing emerging security threats in cloud platforms such as Microsoft Azure.
 
 * 🌍  I'm based in Cape Town
 * ✉️  You can contact me at [meyer.garth@gmail.com](mailto:meyer.garth@gmail.com)
