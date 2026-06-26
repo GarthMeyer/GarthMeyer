@@ -98,16 +98,6 @@ I deliver a blend of technical depth and forward-looking innovation, combining p
   <img src="https://images.credly.com/images/dfa4cb20-16ed-42ca-90a5-6528b62ee651/microsoft365-enterprise-adminstrator-expert-600x600.png" width="120" alt="MS-102 Microsoft 365 Administrator Expert" />
 </a>
 
-<br/><br/>
-
-| Badge | Certification | Exam |
-|:---:|---|:---:|
-| AZ-900 | Microsoft Certified: Azure Fundamentals | ![](https://img.shields.io/badge/-Passed-0078D4?style=flat-square) |
-| AZ-104 | Microsoft Certified: Azure Administrator Associate | ![](https://img.shields.io/badge/-Passed-0078D4?style=flat-square) |
-| AZ-500 | Microsoft Certified: Azure Security Engineer Associate | ![](https://img.shields.io/badge/-Passed-0078D4?style=flat-square) |
-| SC-300 | Microsoft Certified: Identity and Access Administrator Associate | ![](https://img.shields.io/badge/-Passed-0078D4?style=flat-square) |
-| MD-102 | Microsoft 365 Certified: Endpoint Administrator Associate | ![](https://img.shields.io/badge/-Passed-0078D4?style=flat-square) |
-| MS-102 | Microsoft 365 Certified: Administrator Expert | ![](https://img.shields.io/badge/-Passed-0078D4?style=flat-square) |
 
 </div>
 
