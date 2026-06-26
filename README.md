@@ -1,10 +1,6 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FFFFFF&background=00000000&center=true&vCenter=true&width=750&height=60&lines=Microsoft+Certified+Tier+III+Engineer;Aspiring+Azure+Security+Engineer;Cloud+%7C+Identity+%7C+Security+%7C+Automation" />
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=0078D4&background=00000000&center=true&vCenter=true&width=750&height=60&lines=Microsoft+Certified+Tier+III+Engineer;Aspiring+Azure+Security+Engineer;Cloud+%7C+Identity+%7C+Security+%7C+Automation" />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FFFFFF&background=00000000&center=true&vCenter=true&width=750&height=60&lines=Microsoft+Certified+Tier+III+Engineer;Aspiring+Azure+Security+Engineer;Cloud+%7C+Identity+%7C+Security+%7C+Automation" alt="Typing SVG" />
-</picture>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=800&size=24&duration=3000&pause=1000&color=FFFFFF&background=00000000&center=true&vCenter=true&width=750&height=60&lines=Microsoft+Certified+Tier+III+Engineer;Aspiring+Azure+Security+Engineer;Cloud+%7C+Identity+%7C+Security+%7C+Automation)
 
 <br/>
 
