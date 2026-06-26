@@ -106,17 +106,9 @@ Automation & Scripting
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=GarthMeyer&show_icons=true&theme=github_dark&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&bg_color=000000" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=GarthMeyer&show_icons=true&theme=default&hide_border=true&title_color=0078D4&icon_color=0078D4&text_color=24292F&bg_color=FFFFFF" />
-  <img src="https://github-readme-stats.vercel.app/api?username=GarthMeyer&show_icons=true&theme=github_dark&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&bg_color=000000" alt="Garth's GitHub Stats" />
-</picture>
+![Garth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GarthMeyer&show_icons=true&hide_border=true&title_color=FFFFFF&icon_color=58A6FF&text_color=C9D1D9&bg_color=00000000)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=GarthMeyer&layout=compact&theme=github_dark&hide_border=true&title_color=58A6FF&text_color=C9D1D9&bg_color=000000" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=GarthMeyer&layout=compact&theme=default&hide_border=true&title_color=0078D4&text_color=24292F&bg_color=FFFFFF" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GarthMeyer&layout=compact&theme=github_dark&hide_border=true&title_color=58A6FF&text_color=C9D1D9&bg_color=000000" alt="Top Languages" />
-</picture>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GarthMeyer&layout=compact&hide_border=true&title_color=FFFFFF&text_color=C9D1D9&bg_color=00000000)
 
 </div>
 
