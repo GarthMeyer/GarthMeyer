@@ -18,7 +18,7 @@
 
 ## 👋 About Me
 
-I'm **Garth Meyer**, a Microsoft Certified Engineer with a strong foundation in **Azure**, **Microsoft 365**, **identity**, and **endpoint administration**. My work centres around managing secure, scalable cloud environments while continuously expanding my expertise in **artificial intelligence** — exploring how AI can enhance resilience and efficiency in enterprise systems.
+I'm Garth Meyer, a Microsoft Certified Engineer with a strong foundation in Azure, Microsoft 365, identity, and endpoint administration. My work centres around managing secure, scalable cloud environments while continuously expanding my expertise in artificial intelligence — exploring how AI can enhance resilience and efficiency in enterprise systems.
 
 I deliver a blend of technical depth and forward-looking innovation, combining proven cloud and security skills with emerging AI capabilities to create smarter, more adaptive solutions. Beyond technology, I bring balance and discipline from personal passions in gaming, running, fitness, cooking, and family — all of which fuel creativity and sharper problem-solving in my professional work.
 
@@ -28,46 +28,46 @@ I deliver a blend of technical depth and forward-looking innovation, combining p
 
 | Area | Focus |
 |---|---|
-| 🔐 **Identity & Access Hardening** | Zero Trust architecture, conditional access, privileged identity management |
-| 🛡️ **Threat Protection & Response** | Microsoft Defender suite, incident detection and response workflows |
-| ☁️ **Cloud Security Governance** | Azure Policy, Security Center, compliance frameworks |
-| 📋 **Data Protection & Compliance** | Microsoft Purview, DLP, retention policies, information barriers |
-| ⚙️ **Automation & Security Operations** | PowerShell, Azure CLI, workflow automation, operational efficiency |
+| 🔐 Identity & Access Hardening | Zero Trust architecture, conditional access, privileged identity management |
+| 🛡️ Threat Protection & Response | Microsoft Defender suite, incident detection and response workflows |
+| ☁️ Cloud Security Governance | Azure Policy, Security Center, compliance frameworks |
+| 📋 Data Protection & Compliance | Microsoft Purview, DLP, retention policies, information barriers |
+| ⚙️ Automation & Security Operations | PowerShell, Azure CLI, workflow automation, operational efficiency |
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Cloud Platforms**
+Cloud Platforms
 
 ![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Azure Virtual Desktop](https://img.shields.io/badge/Azure%20Virtual%20Desktop-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Azure Security Center](https://img.shields.io/badge/Azure%20Security%20Center-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
-**Identity & Access Management**
+Identity & Access Management
 
 ![Entra ID](https://img.shields.io/badge/Microsoft%20Entra%20ID-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Conditional Access](https://img.shields.io/badge/Conditional%20Access-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 ![RBAC](https://img.shields.io/badge/RBAC-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 
-**Endpoint & Device Management**
+Endpoint & Device Management
 
 ![Intune](https://img.shields.io/badge/Microsoft%20Intune-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Windows Autopilot](https://img.shields.io/badge/Windows%20Autopilot-0078D4?style=for-the-badge&logo=windows&logoColor=white)
 
-**Microsoft 365**
+Microsoft 365
 
 ![Exchange Online](https://img.shields.io/badge/Exchange%20Online-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)
 ![SharePoint](https://img.shields.io/badge/SharePoint%20Online-0078D4?style=for-the-badge&logo=microsoftsharepoint&logoColor=white)
 ![Teams](https://img.shields.io/badge/Microsoft%20Teams-6264A7?style=for-the-badge&logo=microsoftteams&logoColor=white)
 
-**Security Tools**
+Security Tools
 
 ![Microsoft Defender](https://img.shields.io/badge/Microsoft%20Defender-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Azure Monitor](https://img.shields.io/badge/Azure%20Monitor-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Log Analytics](https://img.shields.io/badge/Log%20Analytics-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
-**Automation & Scripting**
+Automation & Scripting
 
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![Azure CLI](https://img.shields.io/badge/Azure%20CLI-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
