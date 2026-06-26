@@ -1,9 +1,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&background=0D1117&center=true&vCenter=true&width=750&height=60&lines=Microsoft+Certified+Tier+III+Engineer;Aspiring+Azure+Security+Engineer;Cloud+%7C+Identity+%7C+Security+%7C+Automation" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&background=000000&center=true&vCenter=true&width=750&height=60&lines=Microsoft+Certified+Tier+III+Engineer;Aspiring+Azure+Security+Engineer;Cloud+%7C+Identity+%7C+Security+%7C+Automation" />
   <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=0078D4&background=FFFFFF&center=true&vCenter=true&width=750&height=60&lines=Microsoft+Certified+Tier+III+Engineer;Aspiring+Azure+Security+Engineer;Cloud+%7C+Identity+%7C+Security+%7C+Automation" />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&background=0D1117&center=true&vCenter=true&width=750&height=60&lines=Microsoft+Certified+Tier+III+Engineer;Aspiring+Azure+Security+Engineer;Cloud+%7C+Identity+%7C+Security+%7C+Automation" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&background=000000&center=true&vCenter=true&width=750&height=60&lines=Microsoft+Certified+Tier+III+Engineer;Aspiring+Azure+Security+Engineer;Cloud+%7C+Identity+%7C+Security+%7C+Automation" alt="Typing SVG" />
 </picture>
 
 <br/>
@@ -112,15 +112,15 @@ Automation & Scripting
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=GarthMeyer&show_icons=true&theme=github_dark&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&bg_color=0D1117" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=GarthMeyer&show_icons=true&theme=github_dark&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&bg_color=000000" />
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=GarthMeyer&show_icons=true&theme=default&hide_border=true&title_color=0078D4&icon_color=0078D4&text_color=24292F&bg_color=FFFFFF" />
-  <img src="https://github-readme-stats.vercel.app/api?username=GarthMeyer&show_icons=true&theme=github_dark&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&bg_color=0D1117" alt="Garth's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=GarthMeyer&show_icons=true&theme=github_dark&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&bg_color=000000" alt="Garth's GitHub Stats" />
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=GarthMeyer&layout=compact&theme=github_dark&hide_border=true&title_color=58A6FF&text_color=C9D1D9&bg_color=0D1117" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=GarthMeyer&layout=compact&theme=github_dark&hide_border=true&title_color=58A6FF&text_color=C9D1D9&bg_color=000000" />
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=GarthMeyer&layout=compact&theme=default&hide_border=true&title_color=0078D4&text_color=24292F&bg_color=FFFFFF" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GarthMeyer&layout=compact&theme=github_dark&hide_border=true&title_color=58A6FF&text_color=C9D1D9&bg_color=0D1117" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GarthMeyer&layout=compact&theme=github_dark&hide_border=true&title_color=58A6FF&text_color=C9D1D9&bg_color=000000" alt="Top Languages" />
 </picture>
 
 </div>
