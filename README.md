@@ -33,6 +33,8 @@ I deliver a blend of technical depth and forward-looking innovation, combining p
 
 ## 🛠️ Tech Stack
 
+Cloud Platforms
+
 ![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Azure Virtual Desktop](https://img.shields.io/badge/Azure%20Virtual%20Desktop-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Azure Security Center](https://img.shields.io/badge/Azure%20Security%20Center-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
