@@ -21,15 +21,6 @@ I value curiosity and follow-through, and I'd rather admit what I don't know tha
 
 ---
 
-Changes made:
-- Cut throat-clearing openers ("Over time," "As a professional," "What motivates me most is")
-- Removed the "fixing what's already broken... preventing the break" pull-quote contrast in favor of two plain statements
-- Trimmed the three-item value list ("curiosity, follow-through, and technical honesty") to something more concrete
-- Replaced vague phrasing ("with a focus on reducing risk at scale," "that others find frustrating") with more specific language
-- Varied sentence length instead of running several same-length sentences in a row
-
----
-
 ## 🔭 Currently Working On
 
 | Area | Focus |
