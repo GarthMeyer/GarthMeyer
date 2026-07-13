@@ -13,9 +13,20 @@
 
 ## 👋 About Me
 
-I'm Garth Meyer, a Microsoft Certified Engineer with a strong foundation in Azure, Microsoft 365, identity, and endpoint administration. My work centres around managing secure, scalable cloud environments while continuously expanding my expertise in artificial intelligence — exploring how AI can enhance resilience and efficiency in enterprise systems.
+I'm Garth Meyer, IT professional moving into Azure Security Engineering, with experience in service desk leadership, platform engineering, and MSP identity/endpoint operations across enterprise and multi-tenant environments. My work centers on Microsoft Entra ID administration, MFA and Conditional Access rollouts, and Intune device compliance. I've helped a 100+ client MSP portfolio strengthen its security posture, worked alongside cross-functional engineering teams, and kept compliance standards consistent across a wide, varied client base.
 
-I deliver a blend of technical depth and forward-looking innovation, combining proven cloud and security skills with emerging AI capabilities to create smarter, more adaptive solutions. Beyond technology, I bring balance and discipline from personal passions in gaming, running, fitness, cooking, and family — all of which fuel creativity and sharper problem-solving in my professional work.
+Most of my career has been about fixing things after they break. I want to spend the next part of it stopping the break before it happens. I like configuring Conditional Access policies, running access reviews, and untangling identity issues most people avoid. Certification study means the most to me when a hands-on lab mirrors a real threat I've already dealt with on the job.
+
+I value curiosity and follow-through, and I'd rather admit what I don't know than fake it. Certification discipline, hands-on portfolio projects, and lessons pulled straight from incident response are how I think security careers actually get built. Outside work, I build Azure home-lab scenarios, follow security research, and mentor junior engineers on my team. A dedicated Azure Security Engineer role is where I want to land next.
+
+---
+
+Changes made:
+- Cut throat-clearing openers ("Over time," "As a professional," "What motivates me most is")
+- Removed the "fixing what's already broken... preventing the break" pull-quote contrast in favor of two plain statements
+- Trimmed the three-item value list ("curiosity, follow-through, and technical honesty") to something more concrete
+- Replaced vague phrasing ("with a focus on reducing risk at scale," "that others find frustrating") with more specific language
+- Varied sentence length instead of running several same-length sentences in a row
 
 ---
 
