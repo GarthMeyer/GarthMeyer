@@ -13,7 +13,7 @@
 
 ## 👋 About Me
 
-I'm Garth Meyer, IT professional moving into Azure Security Engineering, with experience in service desk leadership, platform engineering, and MSP identity/endpoint operations across enterprise and multi-tenant environments. My work centers on Microsoft Entra ID administration, MFA and Conditional Access rollouts, and Intune device compliance. I've helped a 100+ client MSP portfolio strengthen its security posture, worked alongside cross-functional engineering teams, and kept compliance standards consistent across a wide, varied client base.
+I'm Garth Meyer, an IT professional moving into Azure Security Engineering, with experience in service desk leadership, platform engineering, and MSP identity/endpoint operations across enterprise and multi-tenant environments. My work centers on Microsoft Entra ID administration, MFA and Conditional Access rollouts, and Intune device compliance. I've helped a 100+ client MSP portfolio strengthen its security posture, worked alongside cross-functional engineering teams, and kept compliance standards consistent across a wide, varied client base.
 
 Most of my career has been about fixing things after they break. I want to spend the next part of it stopping the break before it happens. I like configuring Conditional Access policies, running access reviews, and untangling identity issues most people avoid. Certification study means the most to me when a hands-on lab mirrors a real threat I've already dealt with on the job.
 
